@@ -47,7 +47,7 @@ python -m tkinter
 Simply execute the Python script `youtube_mp3_downloader.py`.
 
 #### User Interface
-![Logo](https://github.com/username/repository/raw/branch/path/to/image.png)
+![GUI](https://github.com/violawa/ytmp3downloader/blob/87101dbb6b2125939391cd0c5bc43502aa11d625/GUI.png)
 
 
 #### Disclaimer
