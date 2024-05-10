@@ -46,6 +46,10 @@ python -m tkinter
 #### How to Run
 Simply execute the Python script `youtube_mp3_downloader.py`.
 
+#### User Interface
+![Logo](https://github.com/username/repository/raw/branch/path/to/image.png)
+
+
 #### Disclaimer
 This application is for personal and educational use only. Respect copyright laws and terms of service of the respective platforms.
 
