@@ -59,7 +59,7 @@ This application is for personal and educational use only. Respect copyright law
 This application is developed by [Viola Wulan Az Zahro].
 
 ## License
-This project is licensed under the MIT License - see the () file for details.
+This project is licensed under the MIT License - see the (https://github.com/violawa/ytmp3downloader/blob/main/LICENSE) file for details.
 
 ## Contributions
 Contributions are welcome! Feel free to submit issues and pull requests.
